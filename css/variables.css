@@ -1,0 +1,11 @@
+:root {
+    --font-size-initial: 12px;
+    --font-size-lv1: 13px;
+    --font-size-lv2: 14px;
+    --font-size-lv3: 15px;
+    --font-size-lv4: 16px;
+    --font-size-lv5: 17px;
+    --font-size-lv6: 18px;
+
+    --spacing-site: 4em;
+}
