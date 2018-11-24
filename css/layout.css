@@ -1,3 +1,7 @@
+body {
+    color: var(---color-text-main, #000);
+}
+
 .site {
-    padding: var(--spacing-site, 2em);
+
 }

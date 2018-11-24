@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 html {
-    font: var(--font-size-initial, 12px)/1.5 "Nanum+Gothic", sans-serif;
+    font: var(--font-size-initial, 12px)/1.5 "Roboto", sans-serif;
 }
 
 @media screen and (min-width: 480px) {
@@ -45,7 +45,7 @@ h5 { font-size: 1em; }
 h6 { font-size: 1em; font-weight: bold; }
 
 p, ul, ol {
-    padding-bottom: 1.5em;
+    padding: 0.5em 0;
 }
 
 ul, ol {
