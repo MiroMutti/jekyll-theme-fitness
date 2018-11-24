@@ -9,15 +9,16 @@
 </head>
 <body>
     <div class="site">
+        <input type="checkbox" id="nav-main-toggle" name="nav-main-toggle">
         <header class="site-header">
             <div class="site-branding">
                 <p class="site-title">{{ site.title }}</p>
                 <p class="site-description">{{ site.description }}</p>
             </div>
-
+            <label id="nav-toggle" for="nav-main-toggle" class="fas"><span>Menu</span></label>
             <nav class="navigation main">
                 <ul>
-                    <li><a class="fab fa-blogger" href="/">Blog</a></li>
+                    <li><a class="fas fa-square" href="/">Blog</a></li>
                     <li><a class="fas fa-palette" href="/gallery/">Gallery</a></li>
                     <li><a class="fas fa-angle-double-right" href="/quotes/">Quotes</a></li>
                     <li><a class="fas fa-info-circle" href="/about/">About</a></li>
