@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-25T13:29:43+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jekyll Theme - Fitness</title><subtitle>This is a beatiful style theme for jekyll.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2018/11/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-11-17T12:16:20+02:00</published><updated>2018-11-17T12:16:20+02:00</updated><id>http://localhost:4000/2018/11/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2018/11/17/welcome-to-jekyll.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">First post to config the theme</title><link href="http://localhost:4000/2018/11/17/first-post-config.html" rel="alternate" type="text/html" title="First post to config the theme" /><published>2018-11-17T12:16:20+02:00</published><updated>2018-11-17T12:16:20+02:00</updated><id>http://localhost:4000/2018/11/17/first-post-config</id><content type="html" xml:base="http://localhost:4000/2018/11/17/first-post-config.html">&lt;h1 id=&quot;title-level-1&quot;&gt;Title level 1&lt;/h1&gt;
+&lt;h2 id=&quot;title-level-2&quot;&gt;Title level 2&lt;/h2&gt;
+&lt;h3 id=&quot;title-level-3&quot;&gt;Title level 3&lt;/h3&gt;
+&lt;h4 id=&quot;title-level-4&quot;&gt;Title level 4&lt;/h4&gt;
+&lt;h5 id=&quot;title-level-5&quot;&gt;Title level 5&lt;/h5&gt;
+&lt;h6 id=&quot;title-level-6&quot;&gt;Title level 6&lt;/h6&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus ratione ea ipsa hic. Qui ab, dolorem neque, voluptatem cum quisquam quam incidunt suscipit pariatur assumenda voluptatum natus vitae eligendi iusto?&lt;/p&gt;
+
+&lt;h1 id=&quot;title-level-1-1&quot;&gt;Title level 1&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus ratione ea ipsa hic. Qui ab, dolorem neque, voluptatem cum quisquam quam incidunt suscipit pariatur assumenda voluptatum natus vitae eligendi iusto?&lt;/p&gt;
+
+&lt;h2 id=&quot;title-level-2-1&quot;&gt;Title level 2&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus ratione ea ipsa hic. Qui ab, dolorem neque, voluptatem cum quisquam quam incidunt suscipit pariatur assumenda voluptatum natus vitae eligendi iusto?&lt;/p&gt;
+
+&lt;h3 id=&quot;title-level-3-1&quot;&gt;Title level 3&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus ratione ea ipsa hic. Qui ab, dolorem neque, voluptatem cum quisquam quam incidunt suscipit pariatur assumenda voluptatum natus vitae eligendi iusto?&lt;/p&gt;</content><author><name></name></author><summary type="html">Title level 1 Title level 2 Title level 3 Title level 4 Title level 5 Title level 6 Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus ratione ea ipsa hic. Qui ab, dolorem neque, voluptatem cum quisquam quam incidunt suscipit pariatur assumenda voluptatum natus vitae eligendi iusto?</summary></entry></feed>
