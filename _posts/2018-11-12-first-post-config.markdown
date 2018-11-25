@@ -1,7 +1,7 @@
 ---
 layout: site
 title:  "First post to config the theme"
-date:   2018-11-17 12:16:20 +0200
+date:   2018-11-12 12:16:20 +0200
 ---
 
 # Title level 1

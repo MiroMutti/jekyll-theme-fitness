@@ -11,21 +11,21 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: #24272D;
-    color: #0A84FF;
+    background: #24272D ;
+    color: rgb(236, 236, 236);
     box-shadow: 0px 0px 8px 2px rgba(10, 132, 255,1);
 }
 .site-title {
     font-size: 1.8em;
     font-weight: 700;
     text-transform: uppercase;
-    padding: 0.4rem;
-    border-bottom: 2px solid #000;
+    padding: var(--spacing-header);
+    border-bottom: 1px solid #000;
     box-shadow: 0px 8px 5px -5px rgba(10, 132, 255,0.75);
     text-shadow: 0 0 10px rgba(10, 132, 255,1);
 }
 
 p.site-description  {
     font-style: italic;
-    padding: 0.4rem 0;
+    padding: var(--spacing-header);
 }
