@@ -5,7 +5,7 @@ date:   2018-11-21 12:16:20 +0200
 ---
 
 # The 10 Best Muscle-Building Foods
-<img class="post-img" src="/images/posts/The 10 Best Muscle-Building Foods/1.jpg">
+<img class="post-img" src="{{ site.baseurl }}/images/posts/The 10 Best Muscle-Building Foods/1.jpg">
 
 First things first…
 

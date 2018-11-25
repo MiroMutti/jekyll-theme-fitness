@@ -5,7 +5,7 @@ date:   2018-11-17 12:16:20 +0200
 ---
 
 # 6 Beginner Exercises to Build Mass Fast
-<img class="post-img" src="{{ site.baseurl }}/images/posts/beginner-exercises/1.jpg">
+<img class="post-img" src="{{ site.baseurl }}/images/posts/6 Beginner Exercises to Build Mass Fast/1.jpg">
 
 ### 1: Dumbbell Goblet Squat
 The squat is the most important movement you will ever learn. While it focuses on building strength and mass in the lower body, it will also develop good posture and unparalleled total body power.

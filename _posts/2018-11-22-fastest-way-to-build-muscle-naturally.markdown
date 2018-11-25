@@ -1,11 +1,11 @@
 ---
 layout: site
-title:  "The Fastest Way to Build Muscle Naturally (Without Steroids)"
+title:  "The Fastest Way to Build Muscle Naturally"
 date:   2018-11-17 12:16:20 +0200
 ---
 
 # The Fastest Way to Build Muscle Naturally (Without Steroids)
-<img class="post-img" src="/images/posts/build-musle/fastest-way-to-build-muscle-naturally.jpg">
+<img class="post-img" src="{{ site.baseurl }}/images/posts/The Fastest Way to Build Muscle Naturally/1.jpg">
 
 Building muscle without steroids can be extremely challenging.
 
@@ -15,12 +15,12 @@ You see, anabolic steroids manipulate your hormone levels and interact directly 
 
 However, there are a lot of negative side effects to taking steroids, from short-term aggression and acne to long-term brain damage and crippled testosterone production.
 
-<img class="post-img" src="/images/posts/build-musle/transformationNew.jpg">
+<img class="post-img" src="{{ site.baseurl }}/images/posts/The Fastest Way to Build Muscle Naturally/transformationNew.jpg">
 
 ### 1: Get Lean BEFORE You Bulk Up
 
 
-<img class="post-img" src="/images/posts/build-musle/body-fat-hormone-levels-graph.jpg">
+<img class="post-img" src="{{ site.baseurl }}/images/posts/The Fastest Way to Build Muscle Naturally/body-fat-hormone-levels-graph.jpg">
 
 The first step is to cut down and get lean (before you gain weight and bulk up).
 
@@ -35,7 +35,7 @@ You see, higher levels of testosterone (and increased insulin sensitivity) both 
 
 #2: Once Lean, Gain Weight SLOWLY
 
-<img class="post-img" src="/images/posts/build-musle/max-muscle-gains-graph.jpg">
+<img class="post-img" src="{{ site.baseurl }}/images/posts/The Fastest Way to Build Muscle Naturally/max-muscle-gains-graph.jpg">
 
 Once you’ve reached the aforementioned level of around 12-15% body fat, it’s time to build some muscle!
 

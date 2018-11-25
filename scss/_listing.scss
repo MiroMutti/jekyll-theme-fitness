@@ -11,7 +11,8 @@
 }
 
 .listing a {
-    display: flex;
+    display: block;
+    text-align: center;
     background: #fff;
     border-radius: 0.3rem;
     color: #000;
@@ -20,12 +21,38 @@
     padding: 1rem 1.5rem;
 }
 
+.listing a .content {
+    display: block;
+}
+
+.content .title {
+    font-weight: bold;
+    font-size: 1.5rem;
+    display: block;
+    margin: 0.5rem 0;
+
+}
+
 .listing a img{
     width: 100%;
     max-width: 7rem;
-    height: auto;
+    height: 5rem;
 }
 
-.listing a .content {
-    display: block;
+@media screen and (min-width: 640px) {
+    .listing a {
+        padding: auto 1.5rem;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .listing a .content {
+        font-size: 1rem;
+        padding-left: 2rem;
+        display: block;
+        align-items: flex-start;
+        text-align: left;
+    }
+    .content .title {
+        font-size: 1.2rem;
+    }
 }

@@ -1,10 +1,10 @@
 ---
 layout: site
-title:  "How to Bulk up Fast (10 Keys to Boost Growth)"
+title:  "How to Bulk up Fast"
 date:   2018-11-20 12:16:20 +0200
 ---
 # How to Bulk up Fast
-<img class="post-img" src="/images/posts/bulk-up/how-to-bulk-up-fast.jpg">
+<img class="post-img" src="{{ site.baseurl }}/images/posts/How to Bulk up Fast/1.jpg">
 
 Bulking up and gaining muscle can be very challenging.
 
@@ -37,7 +37,7 @@ Here are my top 5 carb sources for bulking up: potatoes, rice, oats, bread, and 
 
 ### 3: Use slow negatives
 
-<img class="post-img" src="/images/posts/bulk-up/bulk-up-fast-negatives.jpg">
+<img class="post-img" src="{{ site.baseurl }}/images/posts/How to Bulk up Fast/bulk-up-fast-negatives.jpg">
 
 The way you perform each rep is also very important.
 
@@ -63,7 +63,7 @@ Put all of these into a blender (add ice if you want) and BOOM! Lunch is served.
 
 ### 5: Cut the cardio
 
-<img class="post-img" src="/images/posts/bulk-up/bulk-up-fast-cardio.jpg">
+<img class="post-img" src="{{ site.baseurl }}/images/posts/How to Bulk up Fast/bulk-up-fast-cardio.jpg">
 
 As I said in #4 above, you need to eat enough calories to gain weight if you want to bulk up… so if you’re burning calories like a mad man doing cardio 2-3x per week, then it’s going to be very hard to make gains.
 
