@@ -3,5 +3,6 @@
 }
 
 .site-content {
+    padding: var(--spacing-site, 4rem);
     padding-top: 12rem;
 }
