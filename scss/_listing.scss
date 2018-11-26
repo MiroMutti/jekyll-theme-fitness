@@ -17,8 +17,14 @@
     border-radius: 0.3rem;
     color: #000;
     text-decoration: none;
-    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
     padding: 1rem 1.5rem;
+    box-shadow: 0px 0px 8px 0px rgba(29, 29, 29, 0.75);
+    transition: background 0.2s ease-in, color 0.2s ease-in;
+}
+
+.listing a:hover {
+    background: #24272D;
+    color: #fff;
 }
 
 .listing a .content {
@@ -35,8 +41,8 @@
 
 .listing a img{
     width: 100%;
-    max-width: 7rem;
-    height: 5rem;
+    max-width: 12rem;
+    height: 8rem;
 }
 
 @media screen and (min-width: 640px) {
@@ -45,6 +51,12 @@
         display: flex;
         justify-content: flex-start;
     }
+
+    .listing a img {
+        max-width: 8rem;
+        height: 5.5rem;
+    }
+
     .listing a .content {
         font-size: 1rem;
         padding-left: 2rem;

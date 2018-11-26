@@ -1,3 +1,19 @@
 .site-footer {
-    
+    display: block;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+    background: #24272D;
+}
+
+.site-footer p{
+    padding: 1.2rem 0;
+}
+
+.site-footer p a{
+    color: #0A84FF;
+    text-decoration: none;
+}
+.site-footer p a:before {
+    padding-right: 0.3rem;
 }

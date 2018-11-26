@@ -1,0 +1,14 @@
+@for $i from 1 through 10 {
+    .navigation li:nth-child(#{$i}) {
+        animation-delay: $i * 0.06s;
+    }
+}
+
+@keyframes nav-in {
+    from {
+        transform: scale(1.2);
+    }
+    to {
+        transform: scale(1);
+    }
+}
