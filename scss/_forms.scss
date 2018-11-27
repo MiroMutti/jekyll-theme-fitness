@@ -1,6 +1,6 @@
 .contact-form {
     padding: 2.5rem 3rem;
-    margin: var(--spacing-site) auto;
+    margin: 0 auto;
     width: 30rem;
     display: block;
     align-items: center;
@@ -46,10 +46,10 @@
 
 @media screen and (max-width:460px) {
     .contact-form {
-        width: 70vw;
+        width: 100%;
     }
 
     .contact-form textarea {
-        width: 50vw;
+        width: 60vw;
     }
 }

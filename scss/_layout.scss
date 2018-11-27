@@ -3,8 +3,31 @@
 }
 
 .site-content {
-    padding: var(--spacing-site, 4rem);
+    padding: 2rem;
     padding-top: 10rem;
     display: block;
     margin: 0 auto;
+}
+
+.post-img {
+    width: 100%;
+}
+
+@media screen and (max-width: 410px) {
+    .site-content {
+        padding-top: 14rem;
+    }
+}
+
+@media screen and (min-width: 640px) {
+    .site-content {
+        padding: var(--spacing-site, 4rem);
+        padding-top: 11.5rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .site-content {
+        width: 75vw;
+    }
 }

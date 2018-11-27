@@ -1,70 +1,72 @@
 .listing {
     padding: 0;
-    margin: 0;
+    margin: 0 auto;
     display: block;
-}
 
-.listing li {
-    display: block;
-    list-style: none outside;
-    margin: 1rem;
-}
+    li {
+        display: block;
+        list-style: none outside;
+        margin: 1rem auto;
+    }
 
-.listing a {
-    display: block;
-    text-align: center;
-    background: #fff;
-    border-radius: 0.3rem;
-    color: #000;
-    text-decoration: none;
-    padding: 1rem 1.5rem;
-    box-shadow: 0px 0px 8px 0px rgba(29, 29, 29, 0.75);
-    transition: background 0.2s ease-in, color 0.2s ease-in;
-}
+    a {
+        display: block;
+        text-align: center;
+        background: #fff;
+        border-radius: 0.3rem;
+        color: #000;
+        text-decoration: none;
+        padding: 1rem 1.5rem;
+        box-shadow: 0px 0px 10px 0px rgba(29, 29, 29, 0.75);
+        transition: background 0.2s ease-in, color 0.2s ease-in;
 
-.listing a:hover {
-    background: #24272D;
-    color: #fff;
-}
+        img{
+            width: 100%;
+            max-width: 12rem;
+            height: 8rem;
+        }
 
-.listing a .content {
-    display: block;
-}
+        .content {
+            display: block;
 
-.content .title {
-    font-weight: bold;
-    font-size: 1.5rem;
-    display: block;
-    margin: 0.5rem 0;
+            .title {
+                font-weight: bold;
+                font-size: 1.5rem;
+                display: block;
+                margin: 0.5rem 0;
+            }
+        }
+    }
 
-}
+    a:hover {
+        background: #24272D;
+        color: #fff;
+    }
 
-.listing a img{
-    width: 100%;
-    max-width: 12rem;
-    height: 8rem;
 }
 
 @media screen and (min-width: 640px) {
+
     .listing a {
         padding: auto 1.5rem;
         display: flex;
         justify-content: flex-start;
-    }
 
-    .listing a img {
-        max-width: 8rem;
-        height: 5.5rem;
-    }
+        img {
+            max-width: 8rem;
+            height: 5.5rem;
+        }
 
-    .listing a .content {
-        font-size: 1rem;
-        padding-left: 2rem;
-        display: block;
-        align-items: flex-start;
-        text-align: left;
-    }
-    .content .title {
-        font-size: 1.2rem;
+        .content {
+            font-size: 1rem;
+            padding-left: 2rem;
+            display: block;
+            align-items: flex-start;
+            text-align: left;
+
+            .title {
+                font-size: 1.2rem;
+            }
+        }
     }
 }
