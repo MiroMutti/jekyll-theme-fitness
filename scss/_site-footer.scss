@@ -18,3 +18,9 @@
         }
     }
 }
+
+@media screen and (max-width: 460px) {
+    .site-footer p {
+        padding: 2rem;
+    }
+}

@@ -36,11 +36,16 @@
 @media screen and (min-width: 640px) {
     .site-title {
         font-size: 1.8em;
-        font-weight: 700;
         padding: var(--spacing-header);
         border-bottom: 1px solid #000;
     }
     .site-header .site-branding p.site-description  {
         padding: var(--spacing-header);
+    }
+}
+
+@media screen and (max-width: 410px) {
+    .site-description {
+            display: none;
     }
 }
