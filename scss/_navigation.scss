@@ -25,9 +25,10 @@
             font-size: 18px;
             color: #fff;
             padding: 1.1rem 0;
-            background: rgba(43, 43, 43, 0.966);
+            -webkit-backdrop-filter: blur(30px) saturate(80%);    
+            background: rgba(43, 43, 43, 0.953);
             border-radius: 4px;
-            box-shadow: 0px 0px 10px 2px #0A84FF;
+            box-shadow: 0px 0px 10px 2px var(--blue-theme);
             transition: background 0.3s ease-in, color 0.3s ease-in;
 
             &:before {
@@ -38,7 +39,7 @@
 
             &:hover {
                 background: #fff;
-                color:#0A84FF; 
+                color:var(--blue-theme); 
             }
         }
     }
@@ -55,7 +56,7 @@
     top: 1.65rem; left: 1.8rem;
     padding: 0;
     margin: 0;
-    color: #089AFF;
+    color: var(--blue-theme);
     font-size: 2.2rem;
 
     & span {

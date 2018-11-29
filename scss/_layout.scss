@@ -13,21 +13,9 @@
     width: 100%;
 }
 
-@media screen and (max-width: 410px) {
-    .site-content {
-        padding-top: 8rem;
-    }
-}
-
 @media screen and (min-width: 640px) {
     .site-content {
         padding: var(--spacing-site, 4rem);
-        padding-top: 11.5rem;
-    }
-}
-
-@media screen and (min-width: 1024px) {
-    .site-content {
-        width: 75vw;
+        padding-top: 13rem;
     }
 }

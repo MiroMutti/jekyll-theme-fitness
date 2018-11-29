@@ -6,7 +6,7 @@
     li {
         display: block;
         list-style: none outside;
-        margin: 1rem auto;
+        margin: 0 auto 1rem auto;
     }
 
     a {
@@ -47,6 +47,9 @@
 
 @media screen and (min-width: 640px) {
 
+    .listing {
+        width: 65vw;
+    }
     .listing a {
         padding: auto 1.5rem;
         display: flex;
