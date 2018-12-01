@@ -1,9 +1,9 @@
 ---
 layout: site
-title:  "HOW ANYONE CAN MASTER THE PULL-UP"
+title:  "How anyone can master the pull-up"
 date:   2018-11-25 15:16:20 +0200
 ---
-<h3 class="center-header">HOW ANYONE CAN MASTER THE PULL-UP</h3>
+<h3 class="center-header">How anyone can master the pull-up</h3>
 
 <p class="img-wrap">
     <img class="post-img" src="{{ site.baseurl }}/images/posts/How anyone can master the pull-up/1.jpg">
