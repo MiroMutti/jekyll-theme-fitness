@@ -20,7 +20,19 @@
 }
 
 @media screen and (min-width: 820px){
-    .gallery-grid img:hover {
-        transform: scale(1.5);
+    .gallery-grid {
+        img:hover {
+        transform: scale(1.4);
+        }
+    }
+}
+
+@media screen and (min-width: 1300px) {
+    .gallery-grid {
+        padding: 0 8em;
+
+        img:hover {
+            transform: scale(1.8);
+            }
     }
 }

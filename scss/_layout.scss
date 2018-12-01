@@ -8,9 +8,13 @@
     display: block;
     margin: 0 auto;
 }
-
-.post-img {
+.img-wrap {
     width: 100%;
+    text-align: center;
+
+    .post-img {
+        max-width: 100%;
+    }
 }
 
 .center-header {

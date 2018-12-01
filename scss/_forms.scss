@@ -19,15 +19,26 @@
 
     input {
         padding: 0.4rem 0 0 0.6rem;
+        width: 98%;
         display: block;
         border: none;
         background: transparent;
+        transition: background 0.3s ease-in;
+        
+        &:focus {
+            background: #24272D;
+            color: #fff;
+            border: none;
+        }
+        &:focus::placeholder{
+            color: #fff;
+        }
     }
 
     textarea {
         border-bottom: none;
         display: block;
-        width: 22em;
+        width: 100%;
     }
 
     .button {
@@ -55,6 +66,6 @@
     }
 
     .contact-form textarea {
-        width: 50vw;
+        width: 100%;
     }
 }

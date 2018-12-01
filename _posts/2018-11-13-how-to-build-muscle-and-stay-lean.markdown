@@ -4,9 +4,12 @@ title:  "How to Build Muscle and Stay Lean 3 Crucial Steps"
 date:   2018-11-13 15:16:20 +0200
 ---
 <h3 class="center-header"> How to Build Muscle and Stay Lean: 3 Crucial Steps </h3>
-<img class="post-img" src="{{ site.baseurl }}/images/posts/How to Build Muscle and Stay Lean 3 Crucial Steps/1.jpg">
 
-#### 1: Eat the Right Amount of Calories
+<p class="img-wrap">
+    <img class="post-img" src="{{ site.baseurl }}/images/posts/How to Build Muscle and Stay Lean 3 Crucial Steps/1.jpg">
+</p>
+
+<h4 class="center-header">1: Eat the Right Amount of Calories</h4>
 
 Fact #1: You can’t build muscle efficiently if you don’t gain weight.
 
@@ -28,9 +31,12 @@ The most efficient way to control your weight gain is to count your calories.
 
 I know this sounds like a pain in the ass, but it’s actually quite easy. Just download a simple calorie counting app on your phone like “MyFitnessPal” and use it to track how many calories you’re eating every day. The app will also help you calculate how many calories you need to eat in order to gain weight.
 
-#### 2: Get Stronger in the Gym
+<h4 class="center-header">2: Get Stronger in the Gym</h4>
 
-<img class="post-img" src="{{ site.baseurl }}/images/posts/How to Build Muscle and Stay Lean 3 Crucial Steps/how-to-build-muscle-and-stay-lean-strenght.jpg">
+<p class="img-wrap">
+    <img class="post-img" src="{{ site.baseurl }}/images/posts/How to Build Muscle and Stay Lean 3 Crucial Steps/how-to-build-muscle-and-stay-lean-strenght.jpg">
+</p>
+
 
 Fact #1: You must get stronger in order to build new muscle.
 
@@ -54,7 +60,11 @@ Compound exercises are exercises that work several large muscle groups at the sa
 
 Effective compound exercises include: squats, lunges, bench press, dips, pull ups, deadlifts, shoulder press, and rows. These exercises should be the focus of your workouts. And you should be trying to get stronger and lift more weight (or do more reps) each time that you do them.
 
-<img class="post-img" src="{{ site.baseurl }}/images/posts/How to Build Muscle and Stay Lean 3 Crucial Steps/how-to-build-muscle-and-stay-lean-rest.jpg">
+<p class="img-wrap">
+    <img class="post-img" src="{{ site.baseurl }}/images/posts/How to Build Muscle and Stay Lean 3 Crucial Steps/how-to-build-muscle-and-stay-lean-rest.jpg">
+</p>
+
+
 
 This means that you need to take days off… and get sufficient sleep!
 

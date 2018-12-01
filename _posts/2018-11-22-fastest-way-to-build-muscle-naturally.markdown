@@ -5,7 +5,10 @@ date:   2018-11-22 12:16:20 +0200
 ---
 
 <h3 class="center-header">The Fastest Way to Build Muscle Naturally (Without Steroids)</h3>
-<img class="post-img" src="{{ site.baseurl }}/images/posts/The Fastest Way to Build Muscle Naturally/1.jpg">
+
+<p class="img-wrap">
+    <img class="post-img" src="{{ site.baseurl }}/images/posts/The Fastest Way to Build Muscle Naturally/1.jpg">
+</p>
 
 Building muscle without steroids can be extremely challenging.
 
@@ -15,12 +18,15 @@ You see, anabolic steroids manipulate your hormone levels and interact directly 
 
 However, there are a lot of negative side effects to taking steroids, from short-term aggression and acne to long-term brain damage and crippled testosterone production.
 
-<img class="post-img" src="{{ site.baseurl }}/images/posts/The Fastest Way to Build Muscle Naturally/transformationNew.jpg">
+<p class="img-wrap">
+    <img class="post-img" src="{{ site.baseurl }}/images/posts/The Fastest Way to Build Muscle Naturally/transformationNew.jpg">
+</p>
 
-#### 1: Get Lean BEFORE You Bulk Up
+<h4 class="center-header">1: Get Lean BEFORE You Bulk Up</h4>
 
-
-<img class="post-img" src="{{ site.baseurl }}/images/posts/The Fastest Way to Build Muscle Naturally/body-fat-hormone-levels-graph.jpg">
+<p class="img-wrap">
+    <img class="post-img" src="{{ site.baseurl }}/images/posts/The Fastest Way to Build Muscle Naturally/body-fat-hormone-levels-graph.jpg">
+</p>
 
 The first step is to cut down and get lean (before you gain weight and bulk up).
 
@@ -33,9 +39,11 @@ This is significant because both of these things play a large role in the muscle
 
 You see, higher levels of testosterone (and increased insulin sensitivity) both lead to higher rates of muscle protein synthesis. And this means that you get to build more muscle.
 
-#### 2: Once Lean, Gain Weight SLOWLY
+<h4 class="center-header">2: Once Lean, Gain Weight SLOWLY</h4>
 
-<img class="post-img" src="{{ site.baseurl }}/images/posts/The Fastest Way to Build Muscle Naturally/max-muscle-gains-graph.jpg">
+<p class="img-wrap">
+    <img class="post-img" src="{{ site.baseurl }}/images/posts/The Fastest Way to Build Muscle Naturally/max-muscle-gains-graph.jpg">
+</p>
 
 Once you’ve reached the aforementioned level of around 12-15% body fat, it’s time to build some muscle!
 

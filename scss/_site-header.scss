@@ -44,8 +44,12 @@
     }
 }
 
-@media screen and (max-width: 405px) {
+@media screen and (max-width: 388px) {
     .site-description {
             display: none;
+    }
+
+    #nav-toggle {
+        top: 3rem; left: 1.8rem;
     }
 }

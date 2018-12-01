@@ -5,9 +5,13 @@ date:   2018-11-21 12:16:20 +0200
 ---
 
 <h3 class="center-header"> 6 Beginner Exercises to Build Mass Fast </h3>
-<img class="post-img" src="{{ site.baseurl }}/images/posts/6 Beginner Exercises to Build Mass Fast/1.jpg">
 
-#### 1: Dumbbell Goblet Squat
+<p class="img-wrap">
+    <img class="post-img" src="{{ site.baseurl }}/images/posts/6 Beginner Exercises to Build Mass Fast/1.jpg">
+</p>
+
+<h4 class="center-header">1: Dumbbell Goblet Squat</h4>
+
 The squat is the most important movement you will ever learn. While it focuses on building strength and mass in the lower body, it will also develop good posture and unparalleled total body power.
 
 The goblet squat is the easiest form of the squat to learn. This does NOT necessarily mean that it’s easy to do – you can still make it extremely difficult by opting to use a heavy dumbbell.
@@ -16,7 +20,8 @@ The 2 main things to focus on when doing this exercise are keeping your feet fla
 
 Next Step: Barbell Back Squat
 
-#### 2: Dumbbell Step Back Lunge
+<h4 class="center-header">2: Dumbbell Step Back Lunge</h4>
+
 While the squat is the most complete lower body movement, it’s a relatively quad-dominant exercise. And so it’s important to balance this out with something that hits the posterior chain a bit harder.
 
 Your posterior chain consists of your lower back, glutes (butt), and hamstrings. A great way to hit the posterior chain for beginners is with the step back lunge. This movement still builds mass in your quads, but it also targets the glutes and hamstrings more than a traditional squat.
@@ -25,7 +30,8 @@ The 2 main things to focus on when doing this exercise are keeping your chest up
 
 Next Step: Dumbbell Bulgarian Split Squat
 
-#### 3: Weighted Push-Up
+<h4 class="center-header">3: Weighted Push-Up</h4>
+
 It’s important that you master the basic pushing movement before you get into bench presses and the like. And don’t worry – this will still be extremely effective and quickly pack mass onto your pecs.
 
 The push-up is the classic pushing exercise. And I’m assuming you can probably bang out a bunch of push-ups no problem… Which is why we’re adding weight to it! Just throw a weighted plate on your back (start with 10 lbs, then 25, then 45) – a backpack with heavy stuff inside will do if you’re working out at home.
@@ -34,7 +40,8 @@ The 2 main things to focus on when doing this exercise are keeping your back str
 
 Next Step: Barbell Bench Press
 
-#### 4: Seated Dumbbell Shoulder Press
+<h4 class="center-header">4: Seated Dumbbell Shoulder Press</h4>
+
 Let’s not forget about the deltoids! A big pair of coconut shoulders will make you look like a beast (shirtless and in clothes), so it’s important they get some action.
 
 The best way for beginners to hit their shoulders is with a seated dumbbell shoulder press. This will support your back and allow you to focus fully on working the delts (while getting some solid tricep work in there, too).
@@ -43,7 +50,8 @@ The 2 main things to focus on when doing this exercise are making sure your fore
 
 Next Step: Barbell Overhead Press
 
-#### 5: Inverted Bodyweight Row
+<h4 class="center-header">5: Inverted Bodyweight Row</h4>
+
 Time for the back! A lot of new lifters tend to neglect their back and focus more on their chest and arms. This will screw you over in the long term! It will ruin your posture, turn you into a hunchback, and just make you look silly.
 
 An amazing movement to target your back is the inverted row. This uses only your bodyweight, but it’s still incredibly challenging.
@@ -52,7 +60,8 @@ The 2 main things to focus on when doing this exercise are keeping your body str
 
 Next Step: Barbell Bent Over Row
 
-#### 6: Lat Pulldown
+<h4 class="center-header">6: Lat Pulldown</h4>
+
 Alright the final exercise we’ll cover is the lat pulldown. When combined with the inverted row, this will build a beastly set of lats, upper back muscles, and biceps.
 
 I recommend using an overhand, shoulder-width grip to get started. The traditional wide grip can be strenuous on your rotator cuff and is best avoided.

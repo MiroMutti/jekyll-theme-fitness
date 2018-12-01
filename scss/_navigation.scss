@@ -101,7 +101,8 @@
                 width: auto;
                 font-size: inherit;
                 margin: 0;
-                padding: 0.8rem 1.5rem;
+                padding: 1rem 1.5rem;
+                border-radius: 0px;
             }
 
             a:before {
@@ -111,11 +112,5 @@
                 font-size: inherit;
             }
         }
-    }
-}
-
-@media screen and (max-width: 405px) {
-    #nav-toggle {
-        top: 3rem; left: 1.8rem;
     }
 }
