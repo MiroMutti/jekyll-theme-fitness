@@ -6,18 +6,21 @@
 
     img {
         background: white;
-        border: 1px solid #24272D;
+        border: 1px solid var(--red-theme);
         box-shadow: 2px 2px 8px 2px  rgba(0,0,0,0.5);
         max-width: 100%;
-
-        &:hover {
-            transform: scale(1.5);
-        }
+        transition: transform 0.2s ease-in;
     }
 } 
 
 @media screen and (max-width: 360px) {
     .gallery-grid {
         grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+}
+
+@media screen and (min-width: 820px){
+    .gallery-grid img:hover {
+        transform: scale(1.5);
     }
 }
